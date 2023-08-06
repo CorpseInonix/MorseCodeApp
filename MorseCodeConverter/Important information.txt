@@ -1,0 +1,7 @@
+The folder "MorseCodeAudio" doesn't have any code but it has a number of audio files in .wav format which are supposed to play during the execution of the program.
+
+The audio quality is low because I couldn't find any open source audio for this project.
+
+If you wanna replace the audio files do so. Just make sure they are in .wav format and have the same names as the previous ones. But be careful mistakes WILL have consequences
+
+Also last but not least the audio files folder (MorseCodeAudio) needs to be in the same  directory as the compiled classes or it won't function properly
